@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:13:11.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-Nz4ZWtIINH8DP_NQgE_" version="21.1.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:17:47.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QqzP2V2SJRQL-7UoyJZx" version="21.1.4" type="github" pages="14">
   <diagram id="4iblMN-Agp7TcZi0vfjn" name="总体建设方案">
     <mxGraphModel dx="976" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3704,7 +3704,7 @@
         <mxCell id="A3JUdsn03Qhr3GiRwCar-15" value="HBase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#3389E6;strokeColor=default;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="612" y="399" width="65" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="A3JUdsn03Qhr3GiRwCar-17" value="后台搜索服务&lt;br style=&quot;font-size: 14px;&quot;&gt;（与前台控制功能一致，solr分片方式不同）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F79626;strokeColor=default;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="A3JUdsn03Qhr3GiRwCar-17" value="后台搜索服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F79626;strokeColor=default;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="796" y="125" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="A3JUdsn03Qhr3GiRwCar-18" value="评价管理后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F79626;strokeColor=default;fontColor=#ffffff;fontSize=14;" vertex="1" parent="1">
